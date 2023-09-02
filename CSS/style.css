@@ -38,22 +38,22 @@
   
   .green {
       color: green;
-      background-color: rgb(165, 245, 165);
+      background-color: #99E599;
   }
 
   .yellow {
       color: rgb(255, 145, 0);
-      background-color: rgb(244, 244, 119);
+      background-color: #FFE57F;
   }
 
   .grey {
       color: rgb(94, 94, 94);
-      background-color: rgb(208, 208, 208);
+      background-color: #CCCCCC;
   }
 
   .blue {
       color: rgb(0, 140, 255);
-      background-color: rgb(190, 242, 255);
+      background-color: #B2E5FF;
   }
 
   .red {
@@ -63,22 +63,22 @@
 
   .purple {
       color: rgba(79, 0, 144);
-      background-color: rgb(79, 0, 144, 0.4);
+      background-color: #9E87BD;
   }
 
   .pink {
       color: rgb(205, 37, 93);
-      background-color: rgb(205, 37, 93, 0.3);
+      background-color: #FFCCE5;
   }
 
   .greenish-purple {
       color: rgb(0, 126, 122);
-      background-color: rgba(0, 126, 122, 0.3);
+      background-color: #7FE5E5;
   }
 
   .bluish-purple {
       color: rgb(1, 71, 162);
-      background-color: rgb(1, 71, 162, 0.3);
+      background-color: #B2CCFF;
   }
 
   .not-red {
